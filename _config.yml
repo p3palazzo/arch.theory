@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arch.Theory: On the Theory of Architectural History
-email: palazzo@unb.br
+title: "Arch.Theory: On the Theory of Architectural History"
+email: "palazzo@unb.br"
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is a repository for research notes and writing snippets pertaining
   to my ongoing project on the theory of architectural history, and
