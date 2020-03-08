@@ -1,0 +1,306 @@
+---
+references:
+- id: 'caniggia:1997ragionamenti'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: Italian
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  title-short: Ragionamenti di tipologia
+  type: book
+
+- id: 'caniggia:2008lettura'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  edition: '2'
+  ISBN: 978-88-6055-182-5
+  issued:
+    - year: 2008
+  language: it
+  number-of-pages: '276'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Google Books
+  title: Lettura dell'edilizia di base
+  type: book
+
+- id: 'conzen:2004notes'
+  author:
+    - family: Conzen
+      given: Michael P.
+    - family: Whitehand
+      given: Jeremy W.R.
+  call-number: '718.04'
+  container-author:
+    - family: Conzen
+      given: M. R. G
+  container-title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  ISBN: 3-03910-276-1 978-3-03910-276-1 0-8204-7203-4 978-0-8204-7203-4
+  issued:
+    - year: 2004
+  language: English
+  page: 269–283
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: >-
+    M. R. G. Conzen’s Notes on ‘Urban Morphology: Its Nature and Development’
+    (1992–1999)
+  type: chapter
+
+- id: 'costa:2015mertola'
+  editor:
+    - family: Costa
+      given: Miguel Reimão
+  ISBN: 978-972-9375-49-1
+  issued:
+    - year: 2015
+  language: Text in Portuguese and English.
+  publisher: Campo Arqueológico de Mértola
+  publisher-place: Mértola
+  source: Open WorldCat
+  title: >-
+    Mértola : a arquitetura da vila e do termo = Architecture in the town and
+    its territory
+  title-short: Mértola
+  type: book
+
+- id: 'durand:1802precis'
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  issued:
+    - year: 1802
+    - year: 1805
+  language: fre
+  number-of-volumes: '2'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+
+- id: 'durand:1802precis1'
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  issued:
+    - year: 1802
+  language: fre
+  publisher: l'auteur
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+  volume: '1'
+
+- id: 'durand:1805precis2'
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  issued:
+    - year: 1805
+  language: fre
+  publisher: l'auteur
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+  volume: '2'
+
+- id: 'durand:1821partie'
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9185
+  issued:
+    - year: 1821
+  language: fre
+  number-of-pages: '36'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: >-
+    Partie graphique des cours d'architecture faits à l'École royale
+    polytechnique depuis sa réorganisation... par J.-N.-L. Durand,...
+  type: book
+
+- id: 'durand:1825precis'
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  issued:
+    - year: 1825
+  language: Français
+  publisher: l'auteur (Paris)
+  source: Gallica
+  title: >-
+    Précis des leçons d'architecture données à l'École polytechnique, par
+    J.-N.-L. Durand,...
+  type: book
+  URL: 'http://gallica.bnf.fr/ark:/12148/bpt6k5762681g'
+
+- id: 'jaffe:1971stijl'
+  call-number: '72.036'
+  editor:
+    - family: Jaffé
+      given: Hans Ludwig C
+  issued:
+    - year: 1971
+  language: English
+  publisher: H. N. Abrams
+  publisher-place: New York
+  source: Open WorldCat
+  title: De Stijl
+  type: book
+
+- id: 'panerai:2012analyse'
+  author:
+    - family: Panerai
+      given: Philippe
+  ISBN: 978-2-86364-603-8
+  issued:
+    - year: 2012
+  language: French
+  publisher: Parenthèses
+  publisher-place: Marseille
+  source: Open WorldCat
+  title: Analyse urbaine
+  type: book
+
+- id: 'patetta:1989storia'
+  author:
+    - family: Patetta
+      given: Luciano
+  ISBN: 978-88-7005-861-1
+  issued:
+    - year: 1989
+  language: it
+  number-of-pages: '221'
+  publisher: Clup
+  source: Google Books
+  title: 'Storia e tipologia: cinque saggi sull''architettura del passato'
+  title-short: Storia e tipologia
+  type: book
+
+- id: 'quatremere:1788caractere'
+  author:
+    - family: Quatremère de Quincy
+      given: Antoine Chrysosthome
+  collection-editor:
+    - family: Diderot
+      given: Denis
+    - family: Alembert
+      given: Jean le Rond
+      non-dropping-particle: d’
+  collection-title: 'Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers'
+  container-title: Architecture
+  editor:
+    - family: Quatremère de Quincy
+      given: A.C.
+  issued:
+    - year: 1788
+  page: 477–518
+  publisher: Panckouke
+  publisher-place: Paris
+  title: Caractère
+  type: chapter
+  volume: '1'
+
+- id: 'quatremere:1825type'
+  author:
+    - family: Quatremère de Quincy
+      given: Antoine Chrysosthome
+  container-title: Architecture
+  editor:
+    - family: Diderot
+      given: Denis
+    - family: Alembert
+      given: Jean le Rond
+      non-dropping-particle: d’
+    - family: Quatremère de Quincy
+      given: A.C.
+  issued:
+    - year: 1825
+  page: 543-545
+  publisher: Panckouke
+  publisher-place: Paris
+  title: Type
+  type: chapter
+
+- id: 'teixeira:1996habitacaoa'
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: '728'
+  collection-title: Textos universitários de ciências sociais e humanas
+  ISBN: 978-972-31-0700-5
+  issued:
+    - year: 1996
+  number-of-pages: '501'
+  publisher: >-
+    Fundação Calouste Gulbenkian : Junta Nacional de Investigação Científica e
+    Tecnológica
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
+  type: book
+
+- id: 'teixeira:2018habitacao'
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: 728 (469.121)
+  collection-number: '107'
+  collection-title: Biblioteca das ciências sociais. Sociologia
+  ISBN: 978-972-36-1681-1
+  issued:
+    - year: 2018
+  number-of-pages: '397'
+  publisher: Afrontamento
+  publisher-place: Porto
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
+  type: book
+
+- id: 'vandoesburg:1971plastic'
+  author:
+    - family: Doesburg
+      given: Theo
+      non-dropping-particle: van
+  call-number: '72.036'
+  container-title: De Stijl
+  editor:
+    - family: Jaffé
+      given: Hans Ludwig C
+  issued:
+    - year: 1971
+  language: English
+  page: 185–188
+  publisher: H. N. Abrams
+  publisher-place: New York
+  source: Open WorldCat
+  title: Towards a Plastic Architecture
+  type: chapter
+...
