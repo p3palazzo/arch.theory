@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is a repository for research notes and writing snippets pertaining
   to my ongoing project on the theory of architectural history, and
   nineteenth-century Brazilian architecture in particular. Feedback, comments,
-  and discussion are welcome! This repository is the source and fallback for
-  the eponymous blog hosted at https://archtheory.hcommons.org.
+  and discussion are welcome! This repository is the content mirror and
+  fallback for the eponymous blog hosted at https://archtheory.hcommons.org.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p3palazzo
@@ -33,9 +33,12 @@ github_username:  p3palazzo
 
 # Build settings
 theme: minima
+destination: ./docs
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+keep_files:
+  - reveal.js
 
 # Exclude from processing.
 # The following items will not be processed, by default.

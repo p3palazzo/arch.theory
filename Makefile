@@ -61,7 +61,6 @@ serve :
 
 build :
 	bundle exec jekyll build
-	cp -r _site/* docs/
 
 # `make clean` will clear out a few standard folders where only compiled
 # files should be. Anything you might have placed manually in them will
