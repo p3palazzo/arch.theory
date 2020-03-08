@@ -1,14 +1,11 @@
 ---
-title: Building typology in the vernacular architecture of Beirã
-subtitle: Contribution to the Marvão Summer School
-author:        Pedro P. Palazzo
-date:          2018-07-22
-bibliography:  /Users/palazzo/Nextcloud/pesquisa/typology/biblio.yaml
-csl:           /Users/palazzo/Zotero/styles/chicago-fullnote-bibliography-with-ibid.csl
+title      : Procedural typology
+subtitle   : Building typology in the vernacular architecture of Beirã
+author     : Pedro P. Palazzo
+date       : 2018-07-22
+categories : typology
+tags       : [morphology, Conzen, Italian school]
 ---
-
-Procedural typology
-===================
 
 The critical role of place and history
 is restored to architectural design
@@ -63,7 +60,7 @@ construction elements, details, and ornamental schemes.
 ![Diagram for typological succession of
   urban housing types in Italy, by
   Caniggia and Cataldi 2008, p. 107
-  ](figures/caniggia_cataldi_107.png)
+  ](fig/caniggia_cataldi_107.png)
 
 One important remark about the base building is that,
 unlike specialized building, it is mostly detached

@@ -1,13 +1,11 @@
 ---
-title                : Claiming disciplinary boundaries for typology
-subtitle             : Critical Typology
-author               : Pedro P. Palazzo
-date                 : 2018-12-10
+title      : Claiming disciplinary boundaries for typology
+subtitle   : Critical Typology
+author     : Pedro P. Palazzo
+date       : 2018-12-10
+categories : typology
+tags       : [typology, Italian school, Moneo, Durand]
 ---
-
-
-Claiming disciplinary boundaries for typology
-=============================================
 
 Typology is generally understood to be the processes
 or operations by which a "concept of a house"---or of

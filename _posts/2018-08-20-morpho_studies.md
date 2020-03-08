@@ -1,14 +1,11 @@
 ---
-title: Building typology in the vernacular architecture of Beirã
-subtitle: Contribution to the Marvão Summer School
-author:        Pedro P. Palazzo
-date:          2018-07-22
-bibliography:  /Users/palazzo/Nextcloud/pesquisa/typology/biblio.yaml
-csl:           /Users/palazzo/Zotero/styles/chicago-fullnote-bibliography-with-ibid.csl
+title      : Morphological studies and architectural history
+subtitle   : Building typology in the vernacular architecture of Beirã
+author     : Pedro P. Palazzo
+date       : 2018-07-22
+categories : typology
+tags       : [morphology, Quatremère de Quincy, character]
 ---
-
-Morphological studies and architectural history
-===============================================
 
 The concept of a building type is first articulated
 in the early nineteenth-century writings of
@@ -64,5 +61,4 @@ Nevertheless, primacy is given to the plan and,
 especially, to the parcel patterns, which are
 assumed to preexist and determine building types.
 [@conzen:2004notes]
-
 
