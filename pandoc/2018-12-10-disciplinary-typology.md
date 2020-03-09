@@ -5,6 +5,11 @@ author     : Pedro P. Palazzo
 date       : 2018-12-10
 categories : typology
 tags       : [typology, Italian school, Moneo, Durand]
+xnos-cleveref         : True
+xnos-capitalise       : True
+fignos-caption-name   : "Figure"
+xnos-caption-separator: period
+xnos-number-by-section: False
 ---
 
 Typology is generally understood to be the processes

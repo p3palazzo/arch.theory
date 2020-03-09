@@ -4,7 +4,15 @@ subtitle   : Building typology in the vernacular architecture of Beirã
 author     : Pedro P. Palazzo
 date       : 2018-07-22
 categories : typology
-tags       : [morphology, Quatremère de Quincy, character]
+tags: 
+  - morphology
+  - Quatremère de Quincy
+  - character
+xnos-cleveref         : True
+xnos-capitalise       : True
+fignos-caption-name   : "Figure"
+xnos-caption-separator: period
+xnos-number-by-section: False
 ---
 
 The concept of a building type is first articulated

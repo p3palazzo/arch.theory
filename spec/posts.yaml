@@ -1,9 +1,9 @@
+to: markdown-citations
 filters:
 - pandoc-xnos
 - pandoc-citeproc
 bibliography            : '_data/biblio.yaml'
 csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
-suppress-bibliography   : True
 fail-if-warnings        : True
 file-scope              : True
 default-image-extension : '.jpg'
@@ -11,8 +11,4 @@ resource-path:
 - .
 - fig
 metadata:
-  xnos-cleveref         : True
-  xnos-capitalise       : True
-  fignos-caption-name   : True
-  xnos-caption-separator: period
-  xnos-number-by-section: False
+  suppress-bibliography   : True

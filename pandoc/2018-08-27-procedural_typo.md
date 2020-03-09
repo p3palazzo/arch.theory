@@ -5,6 +5,11 @@ author     : Pedro P. Palazzo
 date       : 2018-07-22
 categories : typology
 tags       : [morphology, Conzen, Italian school]
+xnos-cleveref         : True
+xnos-capitalise       : True
+fignos-caption-name   : "Figure"
+xnos-caption-separator: period
+xnos-number-by-section: False
 ---
 
 The critical role of place and history
