@@ -6,15 +6,17 @@ vpath %.csl lib/styles
 vpath %.yaml spec
 # vpath %.md pandoc
 vpath default.% lib/pandoc-templates
-POSTS := $(wildcard _posts/*.md)
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-jekyll-build : $(POSTS)
+POSTS = $(wildcard src/*.md)
+FILTERED := $(patsubst src/%,_posts/%, $(POSTS))
+
+jekyll-build : $(FILTERED)
 	bundle exec jekyll build
 
-_posts/%.md : src/%.md posts.yaml _includes/notes.md 
+_posts/%.md : src/%.md posts.yaml _includes/notes.md $(POSTS)
 	pandoc -s -o $@ --defaults spec/posts.yaml \
 		$< _includes/notes.md
 
