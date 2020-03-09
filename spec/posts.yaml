@@ -1,8 +1,9 @@
 filters:
 - pandoc-xnos
 - pandoc-citeproc
-suppress-bibliography   : True
 bibliography            : '_data/biblio.yaml'
+csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+suppress-bibliography   : True
 fail-if-warnings        : True
 file-scope              : True
 default-image-extension : '.jpg'
