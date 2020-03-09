@@ -33,7 +33,7 @@ github_username:  p3palazzo
 
 # Build settings
 theme: minima
-destination: ./docs
+# destination: ./docs
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
@@ -50,13 +50,14 @@ keep_files:
 #
 exclude:
   - docs/reveal.js/
-  - README.md
   - lib/
+  - pandoc/
   - spec/
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - Makefile
+  - README.md
   - .bundle/
   - .sass-cache/
   - .jekyll-cache/
