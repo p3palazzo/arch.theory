@@ -2,12 +2,21 @@
 # ================
 # Where make should look for things
 VPATH = lib
-vpath %.yaml .:spec
+vpath %.csl lib/styles
+vpath %.yaml spec
+# vpath %.md pandoc
 vpath default.% lib/pandoc-templates
+POSTS := $(wildcard _posts/*.md)
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+jekyll-build : $(POSTS)
+	bundle exec jekyll build
+
+_posts/%.md : src/%.md posts.yaml _includes/notes.md 
+	pandoc -s -o $@ --defaults spec/posts.yaml \
+		$< _includes/notes.md
 
 # Install and cleanup {{{1
 # ===================
