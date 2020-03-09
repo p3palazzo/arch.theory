@@ -33,12 +33,11 @@ github_username:  p3palazzo
 
 # Build settings
 theme: minima
-# destination: ./docs
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
 keep_files:
-  - reveal.js
+  - reveal.js # Should not be necessary, keeping this around until recheck.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,7 +50,7 @@ keep_files:
 exclude:
   - docs/reveal.js/
   - lib/
-  - pandoc/
+  - src/
   - spec/
   - Gemfile
   - Gemfile.lock
@@ -63,7 +62,7 @@ exclude:
   - .jekyll-cache/
   - gemfiles/
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - .vendor/bundle/
+  - .vendor/cache/
+  - .vendor/gems/
+  - .vendor/ruby/
