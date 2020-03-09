@@ -1,5 +1,84 @@
 ---
 references:
+- id: 'argan:1959tipologiaI'
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  container-title: Bollettino del Centro Internazionale di Studi Andrea Palladio
+  issued:
+    - year: 1959
+  page: 19–22
+  title: 'Tipologia, simbologia, allegorismo delle forme architettoniche'
+  type: article-journal
+  URL: 'https://www.palladiomuseum.org/annali/1959/4/pdf'
+  volume: I
+
+- id: 'argan:1966tipologia14'
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  call-number: 7(03)E69
+  container-title: Enciclopedia universale dell’arte
+  issued:
+    - year: 1966
+  page: 1–15
+  publisher: Istituto per la collaborazione culturale
+  publisher-place: 'Venezia : Roma'
+  source: BNCRM
+  title: Tipologia
+  type: chapter
+  volume: '14'
+
+- id: 'caniggia:1987progetto'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  call-number: '72.01'
+  collection-title: Biblioteca di Architettura e Urbanistica
+  ISBN: 978-88-317-4722-6
+  issued:
+    - year: 1987
+  language: ita
+  number-of-pages: '395'
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Il progetto nell'edilizia di base: composizione architettonica e tipologia
+    edilizia: 2
+  title-short: Il progetto nell'edilizia di base
+  type: book
+
+- id: 'caniggia:1997metodologia'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  container-title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: Italian
+  original-date:
+    - year: 1981
+  page: 9–46
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Metodologia del recupero: lo studio della tipologia processuale
+    nell’indagine e nel piano
+  title-short: Metodologia del recupero
+  type: chapter
+
 - id: 'caniggia:1997ragionamenti'
   author:
     - family: Caniggia
@@ -173,6 +252,18 @@ references:
   title: De Stijl
   type: book
 
+- id: 'moneo:1978typology'
+  author:
+    - family: Moneo
+      given: Rafael
+  container-title: Oppositions
+  issued:
+    - year: 1978
+  page: 23–45
+  title: On Typology
+  type: article-journal
+  volume: '13'
+
 - id: 'panerai:2012analyse'
   author:
     - family: Panerai
@@ -200,6 +291,25 @@ references:
   source: Google Books
   title: 'Storia e tipologia: cinque saggi sull''architettura del passato'
   title-short: Storia e tipologia
+  type: book
+
+- id: 'pevsner:1989history'
+  author:
+    - family: Pevsner
+      given: Nikolaus
+  call-number: >-
+    Tolbiac - Rez de Jardin - Littérature et art - Salle W - Libre accès -
+    2000-239103
+  collection-title: 'Bollingen series ,  35;  The A. W. Mellon lectures in the fine arts ,  19'
+  ISBN: 978-0-691-01829-4
+  issued:
+    - year: 1989
+  language: eng
+  number-of-pages: '352'
+  publisher: Princeton University Press
+  publisher-place: Princeton (N.J.)
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: A history of building types
   type: book
 
 - id: 'quatremere:1788caractere'

@@ -16,7 +16,7 @@ FILTERED := $(patsubst src/%,_posts/%, $(POSTS))
 jekyll-build : $(FILTERED)
 	bundle exec jekyll build
 
-_posts/%.md : src/%.md posts.yaml _includes/notes.md $(POSTS)
+_posts/%.md : src/%.md posts.yaml _includes/notes.md _data/biblio.yaml
 	pandoc -s -o $@ --defaults spec/posts.yaml \
 		$< _includes/notes.md
 
