@@ -91,3 +91,4 @@ Notes
 [^7]: Giulio Carlo Argan, "Tipologia," in *Enciclopedia Universale
     Dell'arte*, vol. 14 (Venezia : Roma: Istituto per la collaborazione
     culturale, 1966), 1--15.
+
