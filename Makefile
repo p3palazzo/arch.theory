@@ -10,7 +10,7 @@ vpath default.% lib/pandoc-templates
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-POSTS_SRC = $(wildcard src/*.md)
+POSTS_SRC = $(wildcard src/20*.md)
 POSTS_OUT := $(patsubst src/%,_posts/%, $(POSTS_SRC))
 
 jekyll-build : $(POSTS_OUT)
