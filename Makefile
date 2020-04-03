@@ -10,13 +10,13 @@ vpath default.% lib/pandoc-templates
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-POSTS_SRC = $(wildcard src/20*.md)
-POSTS_OUT := $(patsubst src/%,_posts/%, $(POSTS_SRC))
+POSTS_SRC = $(wildcard _posts/*.md)
+POSTS_OUT := $(patsubst _posts/%,docs/_posts/%, $(POSTS_SRC))
 
 jekyll-build : $(POSTS_OUT)
 	bundle exec jekyll build
 
-_posts/%.md : src/%.md posts.yaml _includes/notes.md _data/biblio.yaml
+docs/_posts/%.md : _posts/%.md posts.yaml _includes/notes.md _data/biblio.yaml
 	pandoc -s -o $@ --defaults spec/posts.yaml \
 		$< _includes/notes.md
 

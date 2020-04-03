@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   nineteenth-century Brazilian architecture in particular. Feedback, comments,
   and discussion are welcome! This repository is the content mirror and
   fallback for the eponymous blog hosted at https://archtheory.hcommons.org.
-baseurl: "arch.theory" # the subpath of your site, e.g. /blog
+baseurl: "/arch.theory" # the subpath of your site, e.g. /blog
 url: "https://dmcpatrimonio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p3palazzo
 github_username:  p3palazzo
@@ -36,8 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
-keep_files:
-  - reveal.js # Should not be necessary, keeping this around until recheck.
+source: docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -48,21 +47,4 @@ keep_files:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - docs/reveal.js/
-  - lib/
-  - src/
-  - spec/
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - Makefile
   - README.md
-  - .bundle/
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - node_modules/
-  - .vendor/bundle/
-  - .vendor/cache/
-  - .vendor/gems/
-  - .vendor/ruby/
