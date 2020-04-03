@@ -57,6 +57,8 @@ submodule :
 	rsync -aq .install/git/ .git/
 	cd lib/styles && git config core.sparsecheckout true && \
 		git read-tree -m -u HEAD
+	cd docs/reveal.js && git config core.sparsecheckout true && \
+		git read-tree -m -u HEAD
 
 virtualenv :
 	python3 -m virtualenv .venv && source .venv/bin/activate && \
