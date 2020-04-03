@@ -18,9 +18,9 @@ suppress-bibliography: true
 ---
 
 ![Gianfranco Caniggia. Typological analysis plate of the City of Como,
-1963. [@caniggia:1984lettura]](fig/como-ii.png)
+1963.](fig/como-ii.png)
 
-> This summarized argument will be presented at the [6^th^ meeting of
+> This summarized argument will be presented at the [6th meeting of
 > the European Architectural History
 > Network](https://eahn2020.eca.ed.ac.uk/2020/03/18/692/) in Edinburgh,
 > 2--5 June, 2021, in the session *Split cultures --- New dialogues:

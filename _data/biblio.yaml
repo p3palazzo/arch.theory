@@ -33,6 +33,61 @@ references:
   type: chapter
   volume: '14'
 
+- id: 'biraghi:2005progetto'
+  author:
+    - family: Biraghi
+      given: Marco
+  collection-number: '4'
+  collection-title: Vita delle forme
+  ISBN: 978-88-8273-057-4
+  issued:
+    - year: 2005
+  language: ita
+  number-of-pages: '317'
+  publisher: Marinotti
+  publisher-place: Milano
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Progetto di crisi: Manfredo Tafuri e l''architettura contemporanea'
+  title-short: Progetto di crisi
+  type: book
+
+- id: 'caniggia:1984introduzione'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: NA1118 .M64 1984
+  container-title: 'Moderno non moderno: il luogo e la continuità'
+  edition: '1'
+  editor:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  ISBN: 978-88-317-4720-2
+  issued:
+    - year: 1984
+  page: 11-16
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: Library of Congress ISBN
+  title: Introduzione
+  type: chapter
+
+- id: 'caniggia:1984lettura'
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  collection-title: '[1963]'
+  issued:
+    - year: 1984
+  language: Italian
+  publisher: Centro Studi di Storia Urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: 'Lettura di una città: Como'
+  title-short: Como
+  type: book
+
 - id: 'caniggia:1987progetto'
   author:
     - family: Caniggia
@@ -114,6 +169,66 @@ references:
   source: Google Books
   title: Lettura dell'edilizia di base
   type: book
+
+- id: 'carpenzano:2019storico'
+  call-number: NA2599.8.T34 S76 2019
+  collection-number: '18'
+  collection-title: DiAP print. Teorie
+  edition: '1'
+  editor:
+    - family: Carpenzano
+      given: Orazio
+  ISBN: 978-88-229-0225-2
+  issued:
+    - year: 2019
+  number-of-pages: '429'
+  publisher: Quodlibet
+  publisher-place: Macerata
+  source: Library of Congress ISBN
+  title: 'Lo storico scellerato: scritti su Manfredo Tafuri'
+  title-short: Lo storico scellerato
+  type: book
+
+- id: 'cataldi:2002saverio6'
+  author:
+    - family: Cataldi
+      given: G. Richard
+    - family: Maffei
+      given: Gian Luigi
+    - family: Vaccaro
+      given: Paolo
+  container-title: Urban Morphology
+  issue: '1'
+  issued:
+    - year: 2002
+  page: 3-14
+  source: Semantic Scholar
+  title: Saverio Muratori and the Italian school of planning typology
+  type: article-journal
+  volume: '6'
+
+- id: 'cataldi:2013debito'
+  author:
+    - family: Cataldi
+      given: Giancarlo
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 10-15
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: 'Saverio Muratori: il debito e l''eredità'
+  title-short: Il debito e l'eredità
+  type: chapter
 
 - id: 'conzen:2004notes'
   author:
@@ -252,6 +367,61 @@ references:
   title: De Stijl
   type: book
 
+- id: 'leach:2006choosing'
+  author:
+    - family: Leach
+      given: Andrew
+  genre: Ph.D. Thesis
+  ISBN: 90-8578-049-7
+  issued:
+    - year: 2006
+  number-of-pages: '383'
+  publisher: 'Faculteit Ingenieurswetenschappen, Universiteit Gent'
+  publisher-place: Ghent
+  title: >-
+    Choosing history: a study of Manfredo Tafuri’s theorisation of architectural
+    history and architectural history research
+  title-short: Choosing history
+  type: thesis
+
+- id: 'leach:2007manfredo'
+  author:
+    - family: Leach
+      given: Andrew
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2007-239405
+  ISBN: 978-90-76714-30-1
+  issued:
+    - year: 2007
+  number-of-pages: '323'
+  publisher: A&S Books
+  publisher-place: Ghent
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: 'Manfredo Tafuri: choosing history'
+  title-short: Manfredo Tafuri
+  type: book
+
+- id: 'lobsinger:2006new59'
+  accessed:
+    - year: 2020
+      month: 1
+      day: 29
+  archive: JSTOR
+  author:
+    - family: Lobsinger
+      given: Mary Louise
+  container-title: Journal of Architectural Education (1984-)
+  ISSN: 1046-4883
+  issue: '3'
+  issued:
+    - year: 2006
+  page: 28-38
+  source: JSTOR
+  title: 'The New Urban Scale in Italy: On Aldo Rossi''s "L''architettura della città"'
+  title-short: The New Urban Scale in Italy
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/40480643'
+  volume: '59'
+
 - id: 'moneo:1978typology'
   author:
     - family: Moneo
@@ -263,6 +433,72 @@ references:
   title: On Typology
   type: article-journal
   volume: '13'
+
+- id: 'moschini:2013saverio'
+  author:
+    - family: Moschini
+      given: Francesco
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 172-177
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: >-
+    Saverio Muratori e Aldo Rossi: le forme dell’architettura e le forme della
+    città
+  title-short: Saverio Muratori e Aldo Rossi
+  type: chapter
+
+- id: 'muratori:1959studiIX'
+  author:
+    - family: Muratori
+      given: Saverio
+  container-title: Palladio
+  issue: 3–4
+  issued:
+    - year: 1959
+      month: 7
+  language: italiano
+  page: 97-209
+  title: Studi per una operante storia urbana di Venezia. I
+  title-short: Studi per una operante storia urbana di Venezia
+  type: article-journal
+  volume: IX
+
+- id: 'murro:2019storia'
+  author:
+    - family: Murro
+      given: Rocco
+  call-number: NA2599.8.T34 S76 2019
+  collection-number: '18'
+  collection-title: DiAP print. Teorie
+  container-title: 'Lo storico scellerato: scritti su Manfredo Tafuri'
+  edition: '1'
+  editor:
+    - family: Carpenzano
+      given: Orazio
+  ISBN: 978-88-229-0225-2
+  issued:
+    - year: 2019
+  page: 323--334
+  publisher: Quodlibet
+  publisher-place: Macerata
+  source: Library of Congress ISBN
+  title: >-
+    Storia e progetto allo specchio. Il *desengaño* rossiano negli occhi di
+    Manfredo Tafuri
+  title-short: Storia e progetto allo specchio
+  type: chapter
 
 - id: 'panerai:2012analyse'
   author:
@@ -276,6 +512,24 @@ references:
   publisher-place: Marseille
   source: Open WorldCat
   title: Analyse urbaine
+  type: book
+
+- id: 'papadakis:1990new'
+  collection-title: AD
+  editor:
+    - family: Papadakis
+      given: Andreas
+    - family: Watson
+      given: Harriet
+  ISBN: 978-1-85490-030-2
+  issued:
+    - year: 1990
+  language: English
+  publisher: Academy Editions
+  publisher-place: London
+  source: Open WorldCat
+  title: 'New classicism: omnibus volume'
+  title-short: New classicism
   type: book
 
 - id: 'patetta:1989storia'
@@ -292,6 +546,57 @@ references:
   title: 'Storia e tipologia: cinque saggi sull''architettura del passato'
   title-short: Storia e tipologia
   type: book
+
+- id: 'petruccioli:1998exoteric'
+  accessed:
+    - year: 2020
+      month: 1
+      day: 15
+  author:
+    - family: Petruccioli
+      given: Attilio
+  collection-title: Procedings of the international symposium ... March 1995
+  container-title: Typological process and design theory
+  editor:
+    - family: Petruccioli
+      given: Attilio
+  issued:
+    - year: 1998
+  language: English
+  page: 9--16
+  publisher: >-
+    Aga Khan Program for Islamic Architecture at Harvard University :
+    Massachusetts Institute of Technology
+  publisher-place: 'Cambridge, Mass.'
+  source: Open WorldCat
+  title: >-
+    Exoteric, polytheistic, fundamentalist typology: gleanings in the form of an
+    introduction
+  title-short: 'Exoteric, polytheistic, fundamentalist typology'
+  type: chapter
+  URL: 'https://archnet.org/publications/4240'
+
+- id: 'petruccioli:1998typological'
+  accessed:
+    - year: 2020
+      month: 1
+      day: 15
+  collection-title: Procedings of the international symposium ... March 1995
+  editor:
+    - family: Petruccioli
+      given: Attilio
+  issued:
+    - year: 1998
+  language: English
+  publisher: >-
+    Aga Khan Program for Islamic Architecture at Harvard University :
+    Massachusetts Institute of Technology
+  publisher-place: 'Cambridge, Mass.'
+  source: Open WorldCat
+  title: Typological process and design theory
+  title-short: Typological process and design theory
+  type: book
+  URL: 'https://archnet.org/publications/4240'
 
 - id: 'pevsner:1989history'
   author:
@@ -311,6 +616,47 @@ references:
   source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
   title: A history of building types
   type: book
+
+- id: 'pigafetta:1990saverio'
+  author:
+    - family: Pigafetta
+      given: Giorgio
+  call-number: NA1123.M78 P54 1990
+  collection-title: Saggi Marsilio
+  edition: '1'
+  ISBN: 978-88-317-5323-4
+  issued:
+    - year: 1990
+  number-of-pages: '161'
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: Library of Congress ISBN
+  title: 'Saverio Muratori, architetto: teoria e progetti'
+  title-short: 'Saverio Muratori, architetto'
+  type: book
+
+- id: 'purini:2013saverio'
+  author:
+    - family: Purini
+      given: Franco
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 48-51
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Saverio Muratori tra unità e molteplicità
+  type: chapter
+  URL: 'https://re.public.polimi.it/handle/11311/976650'
 
 - id: 'quatremere:1788caractere'
   author:
@@ -356,6 +702,182 @@ references:
   publisher-place: Paris
   title: Type
   type: chapter
+
+- id: 'rosponi:2004new'
+  collection-number: '3'
+  collection-title: Quaderni di A&C international documents
+  editor:
+    - family: Rosponi
+      given: Cristiano
+    - family: Tagliaventi
+      given: Gabriele
+  ISBN: 978-88-8125-813-0
+  issued:
+    - year: 2004
+  language: ita eng
+  number-of-pages: '96'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Towards a new urban renaissance
+  type: book
+
+- id: 'rossi:2006architettura'
+  author:
+    - family: Rossi
+      given: Aldo
+  collection-title: '[1966]'
+  edition: '4'
+  ISBN: 978-88-251-7112-9
+  issued:
+    - year: 2006
+  number-of-pages: '235'
+  publisher: CittàStudi
+  publisher-place: Torino
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: L' architettura della città
+  type: book
+
+- id: 'stoppani:2010lhistoire'
+  author:
+    - family: Stoppani
+      given: Teresa
+  call-number: NA2750 .H85 2010
+  container-title: >-
+    The humanities in architectural design: a contemporary and historical
+    perspective
+  editor:
+    - family: Bandyopadhyay
+      given: Soumyen
+  ISBN: 978-0-415-55113-7 978-0-415-55114-4
+  issued:
+    - year: 2010
+  page: 214-225
+  publisher: Routledge
+  publisher-place: 'Milton Park, Abingdon, Oxon ; New York, NY'
+  source: Library of Congress ISBN
+  title: 'L''histoire assassinée: Manfredo Tafuri and the present'
+  type: chapter
+
+- id: 'strappa:1989tradizione'
+  call-number: NA1120 .T73 1989
+  editor:
+    - family: Strappa
+      given: Giuseppe
+  ISBN: 978-88-7890-011-0
+  issued:
+    - year: 1989
+  number-of-pages: '165'
+  publisher: Kappa
+  publisher-place: Roma
+  source: Library of Congress ISBN
+  title: 'Tradizione e innovazione nell''architettura di Roma capitale, 1870–1930'
+  title-short: Tradizione e innovazione
+  type: book
+
+- id: 'tafuri:1977storico'
+  author:
+    - family: Tafuri
+      given: Manfredo
+  container-title: Casabella
+  issue: '429'
+  issued:
+    - year: 1977
+  page: 11-18
+  source: Google Scholar
+  title: Il “progetto” storico
+  type: article-journal
+
+- id: 'tafuri:1980sfera'
+  author:
+    - family: Tafuri
+      given: Manfredo
+  issued:
+    - year: 1980
+  language: Undetermined
+  publisher: G. Einaudi
+  publisher-place: Torino
+  source: Open WorldCat
+  title: >-
+    La Sfera e il labirinto: avanguardie e architettura da Piranesi agli anni
+    '70
+  title-short: La Sfera e il labirinto
+  type: book
+
+- id: 'tafuri:1988teorie'
+  author:
+    - family: Tafuri
+      given: Manfredo
+  collection-number: '166'
+  collection-title: Biblioteca Universale Laterza
+  edition: '7'
+  ISBN: 978-88-420-2700-3
+  issued:
+    - year: 1988
+  language: ita
+  number-of-pages: '355'
+  publisher: Laterza
+  publisher-place: Bari
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Teorie e storia dell'architettura
+  type: book
+
+- id: 'tagliaventi:2000tecniche'
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  call-number: NA645 .T34 2000
+  collection-number: '36'
+  collection-title: Saggi e documenti di storia dell'architettura
+  ISBN: 978-88-8125-452-1
+  issued:
+    - year: 2000
+  number-of-pages: '559'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Tecniche e tecnologie dell'architettura fra eclettismo e storicismo
+  type: book
+
+- id: 'tagliaventi:2006european18'
+  accessed:
+    - year: 2020
+      month: 1
+      day: 2
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  container-title: Places
+  ISSN: 0731-0455
+  issue: '1'
+  issued:
+    - year: 2006
+      month: 8
+      day: 1
+  language: en
+  page: 46–52
+  source: escholarship.org
+  title: >-
+    The European Transect: An Organic way for Architecture to Develop Towns,
+    Cities, and Metropolises
+  title-short: The European Transect
+  type: article-journal
+  URL: 'https://escholarship.org/uc/item/4xc2j7qw'
+  volume: '18'
+
+- id: 'tagliaventi:2007manuale'
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  ISBN: 978-88-555-2909-9
+  issued:
+    - year: 2007
+  language: Italian
+  publisher: Patron
+  publisher-place: Bologna
+  source: Open WorldCat
+  title: Manuale di architettura urbana
+  type: book
 
 - id: 'teixeira:1996habitacaoa'
   author:
@@ -413,4 +935,23 @@ references:
   source: Open WorldCat
   title: Towards a Plastic Architecture
   type: chapter
+
+- id: 'zevi:1974architettura'
+  author:
+    - family: Zevi
+      given: Bruno
+  call-number: '72.01'
+  collection-number: '216'
+  collection-title: Piccola Biblioteca Einaudi
+  edition: '2'
+  issued:
+    - year: 1974
+  language: ita
+  number-of-pages: '173'
+  publisher: Einaudi
+  publisher-place: Torino
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Architettura e storiografia: le matrici antiche del linguaggio moderno'
+  title-short: Architettura e storiografia
+  type: book
 ...
