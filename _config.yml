@@ -27,16 +27,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   and discussion are welcome! This repository is the content mirror and
   fallback for the eponymous blog hosted at https://archtheory.hcommons.org.
 baseurl: "/arch.theory" # the subpath of your site, e.g. /blog
-url: "https://dmcpatrimonio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://palazzo.arq.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p3palazzo
 github_username:  p3palazzo
 
 # Build settings
-theme: minima
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
-source: docs
+# source: docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -46,5 +46,5 @@ source: docs
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - README.md
+# exclude:
+#  - README.md
