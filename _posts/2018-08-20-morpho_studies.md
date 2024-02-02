@@ -8,11 +8,6 @@ tags:
   - morphology
   - Quatremère de Quincy
   - character
-xnos-cleveref         : True
-xnos-capitalise       : True
-fignos-caption-name   : "Figure"
-xnos-caption-separator: period
-xnos-number-by-section: False
 ---
 
 The concept of a building type is first articulated
